@@ -1,0 +1,16 @@
+.odds-spread {
+    width: 100%;
+    margin: 0 auto;
+    border-collapse: collapse;
+  }
+  
+  .odds-spread th {
+    background-color: #eee;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  .odds-spread td {
+    padding: 8px;
+    text-align: center;
+  }
